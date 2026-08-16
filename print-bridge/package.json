@@ -1,0 +1,12 @@
+{
+  "name": "zenz-print-bridge",
+  "version": "1.0.0",
+  "description": "Local print bridge — routes cloud print jobs to the LAN thermal printer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
